@@ -1,0 +1,2 @@
+Nama function harus di awalin dengan huruf C_
+setiap query harus di simpan di dalam model
